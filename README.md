@@ -2,7 +2,7 @@
 This project is designed to identify people who have masks from other people to be able to identify people who do not have masks.
 Above, there are three files. The first file for recognizing people without masks from images is the second file can provide the task of identifying people without masks with masks and the incorrect form of mask coverage.
 
-The model is located in the Google Drive link below.
+The model is located in the Google Drive link below and has 99.62% accuracy.
 
 https://drive.google.com/file/d/1TUXM1d8yct1dcTCVugMlW8l-JodFOhtN/view?usp=sharing
 
